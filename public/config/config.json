@@ -1,18 +1,18 @@
 {
   "CONTRACT_ADDRESS": "0x7B21a7e59d4CBA7d13AcF78aB66099AE958A38Af",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "SCAN_LINK": "https://basescan.org/token/0x7b21a7e59d4cba7d13acf78ab66099ae958a38af",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Base",
+    "SYMBOL": "ETH",
+    "ID": 8453
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "The Noob Builders",
+  "SYMBOL": "TNB",
+  "MAX_SUPPLY": 100,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 0.0005,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE": "Zonic",
+  "MARKETPLACE_LINK": "",
   "SHOW_BACKGROUND": true
 }
