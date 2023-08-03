@@ -1,13 +1,13 @@
 {
   "CONTRACT_ADDRESS": "0xA322199A786F3B1C397815D1AaA2B1267616d2FA",
-  "SCAN_LINK": "https://basescan.org/token/0x7b21a7e59d4cba7d13acf78ab66099ae958a38af",
+  "SCAN_LINK": "https://basescan.org/token/0xa322199a786f3b1c397815d1aaa2b1267616d2fa",
   "NETWORK": {
     "NAME": "Base",
     "SYMBOL": "ETH",
     "ID": 8453
   },
-  "NFT_NAME": "The Noob Builders",
-  "SYMBOL": "TNB",
+  "NFT_NAME": "MIFANS MEDAN DAO",
+  "SYMBOL": "MFS",
   "MAX_SUPPLY": 100,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 0.0005,
